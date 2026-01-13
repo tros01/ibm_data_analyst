@@ -9,4 +9,7 @@ Practice solutions and material from
 
 | file | description |
 | ---- | ----------- |
-| `*.ipynb` | desc |
+| `py_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **Python**. Basic data cleaning and visualisation. |
+| `r_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **R**. Basic data cleaning and visualisation. |
+| `py_m5_financial series_project.ipynb` | A Python Project for Data Science project. Yahoo Finance API use demo in **Python**. |
+| `r_m5_financial series_project.ipynb` | A Python Project for Data Science project. Yahoo Finance API use demo in **R**. |
