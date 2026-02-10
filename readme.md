@@ -5,6 +5,8 @@ Practice solutions and material from
 - [IBM Data Analytics with Excel and Python](https://www.coursera.org/professional-certificates/ibm-data-analyst) (Coursera)
 - [IBM Data Analytics with Excel and R](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel) (Coursera)
 
+Although the solutions broadly follow the course tasks given, they do not neceesarily match the course solutions. Furthermore, the notebooks attempt to build on the tasks given. Each project is solved in both **R** and **Python**.
+
 ## Course file inventory
 
 | file | description |
