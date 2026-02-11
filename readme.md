@@ -13,7 +13,8 @@ Although the solutions broadly follow the course tasks given, they do not necees
 | ---- | ----------- |
 | `py_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **Python**. Basic data cleaning and visualisation. |
 | `r_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **R**. Basic data cleaning and visualisation. |
-| `py_m5_financial series_project.ipynb` | A Python Project for Data Science project. Yahoo Finance API use demo in **Python**. |
-| `r_m5_financial series_project.ipynb` | A Python Project for Data Science project. Yahoo Finance API use demo in **R**. |
+| `py_m5_financial series_project.ipynb` | A Python for Data Science project. Yahoo Finance API use demo in **Python**. |
+| `r_m5_financial series_project.ipynb` | A Python for Data Science project. Yahoo Finance API use demo in **R**. |
+| `r_m6_annual_crop_data.ipynb` | A SQL for Data Science project. Basic **SQL** queries in **SQLite** in **R**. |
 | `r_m6_otter_migration.ipynb` | Migrating a **MySQL** schema to an **SQLite** database in **R**. |
 | `r_m6_otters_database.ipynb` | Exploring an otter colony database in **R** and **RSQLite**. |
