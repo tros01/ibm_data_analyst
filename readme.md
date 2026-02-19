@@ -15,8 +15,9 @@ Although the solutions broadly follow the course tasks given, they do not necees
 | `r_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **R**. Basic data cleaning and visualisation. | Intro. Summary. |
 | `py_m5_financial series_project.ipynb` | A Python for Data Science project. Yahoo Finance API use demo in **Python**. | Analysis. Intro. Summary. |
 | `r_m5_financial series_project.ipynb` | A Python for Data Science project. Yahoo Finance API use demo in **R**. | Analysis. Intro. Summary. |
-| `r_m6_annual_crop_data-final_project.ipynb` | A SQL for Data Science project. Basic **SQL** queries in **SQLite** in **R**. | Tasks. Intro. Summary. |
-| `r_m6_annual_crop_data.ipynb` | A SQL for Data Science project. Basic **SQL** queries in **SQLite** in **R**. | Intro. Summary. |
+| `r_m6_annual_crop_data-final_project.ipynb` | An investigation of produce and price volatility of principal Canadian crops from the perspective of a US company. | Intro. Summary. |
+| `r_m6_annual_crop_data.ipynb` | Basic **SQL** queries/task solutions in **SQLite** in **R**. | |
+| `r_m6_annual_crop_data2.ipynb` | Basic **SQL** queries/task solutions in **SQLite** in **R**. | |
 | `r_m6_employees_schema.ipynb` | SQL for Data Science practice problems. Basic **SQL** queries in **MySQL** in **R**. | Intro. Summary. |
 | `r_m6_otter_migration.ipynb` | Migrating a **MySQL** schema to an **SQLite** database in **R**. | Warning message/error log. |
 | `r_m6_otters_database.ipynb` | Exploring an otter colony database in **R** and **RSQLite**. | Practice problems. Intro. Summary. |
