@@ -7,7 +7,7 @@ The notebooks in this repository follow the IBM Data Analytics programmes,
 
 Each notebook is broadly guided by, but also further builds on, the flow of tasks given by the course; however, it departs as and when need be in order to allow us to draw coherent set of conclusions answering the overarching question. Each notebook also opens with an introduction to the scenario, an executive summary and a brief structured as a report.
 
-## Tools
+## Course toolbox
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"
@@ -31,17 +31,17 @@ Each notebook is broadly guided by, but also further builds on, the flow of task
 <br clear="all" />
 </p>
 
-## Course file inventory
+## Course notebook inventory
 
 | file | description | course context | primary tools | outstanding tasks |
 | ---- | ----------- | -------------- | ------------- |------------------ |
-| `py_m5_covid-19_project.ipynb` | We scrape a table of  | R course. Module 5. Data harvesting, cleaning, visualisation. | `("Python", "numpy", "pandas", "requests", "matplotlib")` | Intro. Summary. |
-| `r_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **R**. Basic data cleaning and visualisation. | | `c("R", "tidyverse", "rvest", "httr2")`. | Intro. Summary. |
-| `py_m5_financial series_project.ipynb` | A Python for Data Science project. Yahoo Finance API use demo in **Python**. | Analysis. Intro. Summary. |
-| `r_m5_financial series_project.ipynb` | A Python for Data Science project. Yahoo Finance API use demo in **R**. | Analysis. Intro. Summary. |
-| `r_m6_annual_crop_data-final_project.ipynb` | An investigation of produce and price volatility of principal Canadian crops from the perspective of a US company. | Intro. Summary. |
-| `r_m6_annual_crop_data.ipynb` | Basic **SQL** queries/task solutions in **SQLite** in **R**. | |
-| `r_m6_annual_crop_data2.ipynb` | Basic **SQL** queries/task solutions in **SQLite** in **R**. | |
-| `r_m6_employees_schema.ipynb` | SQL for Data Science practice problems. Basic **SQL** queries in **MySQL** in **R**. | Intro. Summary. |
-| `r_m6_otter_migration.ipynb` | Migrating a **MySQL** schema to an **SQLite** database in **R**. | Warning message/error log. |
-| `r_m6_otters_database.ipynb` | Exploring an otter colony database in **R** and **RSQLite**. | Practice problems. Intro. Summary. |
+| `py_m5_covid-19_project.ipynb` | | R course. Module 5. Data harvesting, cleaning, visualisation. | `("Python", "numpy", "pandas", "requests", "matplotlib")` | Intro. Summary. |
+| `r_m5_covid-19_project.ipynb` | | R course. Module 5. Data harvesting, cleaning, visualisation. | `c("R", "tidyverse", "rvest", "httr2")` | Intro. Summary. |
+| `py_m5_financial series_project.ipynb` | Yahoo Finance API. | Python course. Module 5. Data harvesting, cleaning, visualisation. | `("Python", "numpy", "pandas", "requests", "matplotlib")` | Analysis. Intro. Summary. |
+| `r_m5_financial series_project.ipynb` | Yahoo Finance API. | Python course. Module 5. Data harvesting, cleaning, visualisation. | `c("R", "tidyverse", "rvest", "httr2")` | Analysis. Intro. Summary. |
+| `r_m6_annual_crop_data-final_project.ipynb` | An investigation of produce and price volatility of principal Canadian crops from the perspective of a US company. | R course. Module 6. Database construction. Queries and data manipulation in SQL. | `c("R", "tidyverse", "RSQLite", "DBI")` | Intro. Summary. |
+| `r_m6_annual_crop_data.ipynb` | Practice solutions without further analysis. | R course. Module 6. Database construction. Queries and data manipulation in SQL. | `c("R", "tidyverse", "RSQLite", "DBI")` | |
+| `r_m6_annual_crop_data2.ipynb` | Practice solutions without further analysis. | R course. Module 6. Database construction. Queries and data manipulation in SQL. | `c("R", "tidyverse", "RSQLite", "DBI")` | |
+| `r_m6_employees_schema.ipynb` | Practice solutions without further analysis. | R Course. Module 6. MySQL queries. | `c("R", "tidyverse", "odbc", "DBI")` | |
+| `r_m6_otter_migration.ipynb` | Migrating a MySQL schema to an SQLite database. | Module 6. | `c("R", "tidyverse", "MySQL", "odbc", "RSQLite", "DBI")` | Warning message/error log. |
+| `r_m6_otters_database.ipynb` | Practice solutions without further analysis. | Queries and data manipulation in SQL. | `c("R", "tidyverse", "RSQLite", "DBI")` | |
