@@ -1,18 +1,32 @@
 # IMB Data Analyst
 
-Practice solutions and material from 
+The notebooks in this repository follow the IBM Data Analytics programmes,
 
-- [IBM Data Analytics with Excel and Python](https://www.coursera.org/professional-certificates/ibm-data-analyst) (Coursera)
-- [IBM Data Analytics with Excel and R](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel) (Coursera)
+- [IBM Data Analytics with Excel and Python](https://www.coursera.org/professional-certificates/ibm-data-analyst)
+- [IBM Data Analytics with Excel and R](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel)
 
-Although the solutions broadly follow the course tasks given, they do not neceesarily match the course solutions. Furthermore, the notebooks attempt to build on the tasks given. Each project is solved in both **R** and **Python**.
+Each notebook is broadly guided by, but also further builds on, the flow of tasks given by the course; however, it departs as and when need be in order to allow us to draw coherent set of conclusions answering the overarching question. Each notebook also opens with an introduction to the scenario, an executive summary and a brief structured as a report.
+
+## Tools
+
+<div style="width: 400px; aspect-ratio: 2 / 1; margin: 0 auto;">
+  <img src="[image.svg]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667))" style="width: 100%; height: 100%;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="[image.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)" style="width: 100%; height: 100%;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="[image.svg]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png?20240131042527))" style="width: 100%; height: 100%;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="[image.svg]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg))" style="width: 100%; height: 100%;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="[image.svg]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/500px-SQLite370.svg.png?20140602232932))" style="width: 100%; height: 100%;" />
+</div>
 
 ## Course file inventory
 
-| file | description | outstanding tasks |
-| ---- | ----------- | ----------------- |
-| `py_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **Python**. Basic data cleaning and visualisation. | Intro. Summary. |
-| `r_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **R**. Basic data cleaning and visualisation. | Intro. Summary. |
+| file | description | course context | primary tools | outstanding tasks |
+| ---- | ----------- | -------------- | ------------- |------------------ |
+| `py_m5_covid-19_project.ipynb` | We scrape a table of  | R course. Module 5. Data harvesting, cleaning, visualisation. | `("Python", "numpy", "pandas", "requests", "matplotlib")` | Intro. Summary. |
+| `r_m5_covid-19_project.ipynb` | An Introduction to R Programming for Data Science project. Web harvesting demo in **R**. Basic data cleaning and visualisation. | | `c("R", "tidyverse", "rvest", "httr2")`. | Intro. Summary. |
 | `py_m5_financial series_project.ipynb` | A Python for Data Science project. Yahoo Finance API use demo in **Python**. | Analysis. Intro. Summary. |
 | `r_m5_financial series_project.ipynb` | A Python for Data Science project. Yahoo Finance API use demo in **R**. | Analysis. Intro. Summary. |
 | `r_m6_annual_crop_data-final_project.ipynb` | An investigation of produce and price volatility of principal Canadian crops from the perspective of a US company. | Intro. Summary. |
