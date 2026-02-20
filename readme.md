@@ -10,15 +10,15 @@ Each notebook is broadly guided by, but also further builds on, the flow of task
 ## Tools
 
 <div style="margin: 0 auto;">
-  <img src="[image.svg]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667))" style="width: 100%; height: 100%;" />
+  <img src="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" style="width: 100%; height: 100%;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="[image.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)" style="width: 100%; height: 100%;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" style="width: 100%; height: 100%;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="[image.svg]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png?20240131042527))" style="width: 100%; height: 100%;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png?20240131042527" style="width: 100%; height: 100%;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="[image.svg]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg))" style="width: 100%; height: 100%;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="width: 100%; height: 100%;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="[image.svg]([https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/500px-SQLite370.svg.png?20140602232932))" style="width: 100%; height: 100%;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/500px-SQLite370.svg.png?20140602232932" style="width: 100%; height: 100%;" />
 </div>
 
 ## Course file inventory
