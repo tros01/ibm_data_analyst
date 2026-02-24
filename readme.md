@@ -1,4 +1,4 @@
-# IMB Data Analyst
+# IBM Data Analyst
 
 The notebooks in this repository follow the IBM Data Analytics programmes,
 
