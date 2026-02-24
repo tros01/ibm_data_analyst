@@ -1,4 +1,4 @@
-## Course notebook inventory
+## Solution notebook inventory
 
 | file | type | description | course context | primary tools | outstanding tasks |
 | ---- | ---- | ----------- | -------------- | ------------- |------------------ |
