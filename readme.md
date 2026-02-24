@@ -39,3 +39,9 @@ Each notebook is broadly guided by, but also further builds on, the flow of task
 
 <br clear="all" />
 </p>
+
+## Course notebook inventory
+
+| file | type | description | course context | primary tools | outstanding tasks |
+| ---- | ---- | ----------- | -------------- | ------------- |------------------ |
+| | | | | | |
