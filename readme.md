@@ -45,3 +45,6 @@ Each notebook is broadly guided by, but also further builds on, the flow of task
 | file | type | description | course context | primary tools | outstanding tasks |
 | ---- | ---- | ----------- | -------------- | ------------- |------------------ |
 | | | | | | |
+
+Uncurated notes and and unedited solutions are contained in the course [solutions folder](https://github.com/tros01/ibm_data_analyst/tree/main/solutions).
+
